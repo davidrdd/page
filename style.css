@@ -1,0 +1,26 @@
+.verificado{
+
+width: 100;
+
+}
+
+.conteiner {
+
+
+text-align: left;
+background: #ffffff;
+
+
+}
+
+
+
+.imagen1{
+
+    width: 200px;
+    height: 100px;
+    backdrop-filter: blur(1000px);
+    
+}
+
+
